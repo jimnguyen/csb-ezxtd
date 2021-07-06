@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jimnguyen.github.io/csb-ezxtd/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://jimnguyen.github.io/csb-ezxtd/static/js/main.9c297d03.chunk.js",
+    "main.js.map": "https://jimnguyen.github.io/csb-ezxtd/static/js/main.9c297d03.chunk.js.map",
+    "runtime-main.js": "https://jimnguyen.github.io/csb-ezxtd/static/js/runtime-main.4ea6282b.js",
+    "runtime-main.js.map": "https://jimnguyen.github.io/csb-ezxtd/static/js/runtime-main.4ea6282b.js.map",
+    "static/js/2.ed72e339.chunk.js": "https://jimnguyen.github.io/csb-ezxtd/static/js/2.ed72e339.chunk.js",
+    "static/js/2.ed72e339.chunk.js.map": "https://jimnguyen.github.io/csb-ezxtd/static/js/2.ed72e339.chunk.js.map",
+    "index.html": "https://jimnguyen.github.io/csb-ezxtd/index.html",
+    "precache-manifest.8f6816a61bf8ac45c3df5ae94a13f5d4.js": "https://jimnguyen.github.io/csb-ezxtd/precache-manifest.8f6816a61bf8ac45c3df5ae94a13f5d4.js",
+    "service-worker.js": "https://jimnguyen.github.io/csb-ezxtd/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://jimnguyen.github.io/csb-ezxtd/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.ed72e339.chunk.js.LICENSE.txt": "https://jimnguyen.github.io/csb-ezxtd/static/js/2.ed72e339.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea6282b.js",
+    "static/js/2.ed72e339.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.9c297d03.chunk.js"
+  ]
+}
